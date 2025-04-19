@@ -3,7 +3,7 @@
 - .Net Core v8
 - Entity v8
 - DB firt
-- Authentication(JWT)
+- Cookie Authentication
 - AutoMapper
 # Chức năng:
 - Đăng nhập, đăng ký 
